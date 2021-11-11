@@ -25,6 +25,7 @@ Class Client, Petugas dan JenisLaundry menggunakan enkapsulasi dengan memprivate
 ![Alt Text](https://github.com/abdlh05/Laundry/blob/main/Screen%20Shoot/output%20menu%203.png?raw=true)
 ## 4. menu 4 outputnya melakukan transaksi. 
 pertama tama menginputkan id user dimana nanti diambil dari indexnya kemudian menginputkan index jenis Laundry untuk menentukan jenis laundry lalu beratnya untuk menampilkan harga nantinya kemudian keluar laporan dan laporan lengkap transaksinya
+
 ![Alt Text](https://github.com/abdlh05/Laundry/blob/main/Screen%20Shoot/output%20menu%204.png?raw=true)
 
 
